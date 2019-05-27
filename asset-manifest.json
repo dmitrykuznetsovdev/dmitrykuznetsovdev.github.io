@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.5eb9a459.chunk.js",
+    "main.js.map": "/static/js/main.5eb9a459.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.deb71292.js",
+    "runtime~main.js.map": "/static/js/runtime~main.deb71292.js.map",
+    "static/css/2.fd7ab13b.chunk.css": "/static/css/2.fd7ab13b.chunk.css",
+    "static/js/2.691dfd72.chunk.js": "/static/js/2.691dfd72.chunk.js",
+    "static/js/2.691dfd72.chunk.js.map": "/static/js/2.691dfd72.chunk.js.map",
+    "static/js/3.4211f8c1.chunk.js": "/static/js/3.4211f8c1.chunk.js",
+    "static/js/3.4211f8c1.chunk.js.map": "/static/js/3.4211f8c1.chunk.js.map",
+    "static/js/4.2a0bb523.chunk.js": "/static/js/4.2a0bb523.chunk.js",
+    "static/js/4.2a0bb523.chunk.js.map": "/static/js/4.2a0bb523.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c05bee1c2f7edb7418fefcf7452762df.js": "/precache-manifest.c05bee1c2f7edb7418fefcf7452762df.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.fd7ab13b.chunk.css.map": "/static/css/2.fd7ab13b.chunk.css.map",
+    "static/media/fonts.css": "/static/media/ProximaNovaBold.a9f19822.otf",
+    "static/media/banner.png": "/static/media/banner.f233616a.png",
+    "static/media/screen1.png": "/static/media/screen1.c1927af1.png",
+    "static/media/screen2.png": "/static/media/screen2.8717e170.png",
+    "static/media/screen3.png": "/static/media/screen3.fe2e15bc.png",
+    "static/media/screen4-1.png": "/static/media/screen4-1.301bf9a2.png",
+    "static/media/screen4-2.png": "/static/media/screen4-2.00b7fa43.png",
+    "static/media/screen4.png": "/static/media/screen4.56868e29.png",
+    "static/media/screen5.png": "/static/media/screen5.dbd4b3fc.png",
+    "static/media/screen6.png": "/static/media/screen6.f1002add.png"
+  }
+}
